@@ -1,8 +1,17 @@
 {
-	"name": "jumper",
-	"displayName": "jumper",
-	"description": "Jump to any files in workspace",
+	"name": "file-jumper",
+	"displayName": "File jumper",
+	"description": "Jump to any file in workspace",
 	"version": "0.0.1",
+	"publisher": "estivo",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Estivoo/file-jumper"
+	},
+	"bugs": {
+		"url": "https://github.com/Estivoo/file-jumper/issues"
+	},
+	"license": "MIT",
 	"engines": {
 		"vscode": "^1.35.0"
 	},
